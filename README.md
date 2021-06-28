@@ -1,1 +1,1 @@
-# neural-computing-project
+# Sephora Products Rating Classification Project
